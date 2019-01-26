@@ -6,6 +6,8 @@
 //  Copyright © 2019 SambaBlondie. All rights reserved.
 //
 
+//todo: add more answers
+
 import UIKit
 import CoreData
 
